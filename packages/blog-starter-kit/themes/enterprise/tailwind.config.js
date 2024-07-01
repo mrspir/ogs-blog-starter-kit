@@ -30,7 +30,7 @@ module.exports = {
 					  'word-break': 'break-word',
 					},
 					'div[data-node-type="callout-emoji"]': {
-					  background: '#E2E8F0',
+					  background: '#0A0A0A',
 					  'border-radius': '0.5rem',
 					  minWidth: '1.75rem',
 					  width: '1.75rem',
